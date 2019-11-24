@@ -1,3 +1,3 @@
 # DSML2019
 
-## Data Science and Machine Learning 2019
+## Data Science & Machine Learning 2019
